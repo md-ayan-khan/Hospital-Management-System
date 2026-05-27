@@ -89,13 +89,13 @@ A Java-based Hospital Management System that manages hospital operations such as
 1. Clone this repository  
 2. Import project into IDE  
 3. Create database:
+---
+## 👨‍💻 Author
 
+**Rahul Sharma**  
+📌 Java Developer | JDBC | MySQL  
 ```sql
 CREATE DATABASE HospitalManagementSystem;
 
 ---
 
-## 👨‍💻 Author
-
-**Rahul Sharma**  
-📌 Java Developer | JDBC | MySQL  
