@@ -93,7 +93,6 @@ A Java-based Hospital Management System that manages hospital operations such as
 ## 👨‍💻 Author
 
 **MO AYAN KHAN**  
-📌 Java Developer | JDBC | MySQL  
 ```sql
 
 
