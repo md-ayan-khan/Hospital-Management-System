@@ -92,10 +92,10 @@ A Java-based Hospital Management System that manages hospital operations such as
 ---
 ## 👨‍💻 Author
 
-**Rahul Sharma**  
+**MO AYAN KHAN**  
 📌 Java Developer | JDBC | MySQL  
 ```sql
-CREATE DATABASE HospitalManagementSystem;
 
----
+
+
 
